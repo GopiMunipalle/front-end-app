@@ -1,0 +1,22 @@
+.item-details-container {
+  background-color: rgb(198, 223, 244);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+.items-view {
+  align-self: center;
+  background-color: #fff;
+  margin-top: 20px;
+  width: 70%;
+  height: 70%;
+  padding: 15px;
+  box-shadow: 5px 5px 10px 2px rgb(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+.image-item {
+  height: 200px;
+  width: 200px;
+}

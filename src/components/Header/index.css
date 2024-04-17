@@ -1,0 +1,26 @@
+.nav-bar-container {
+  background-color: rgb(232, 232, 83);
+  height: 60px;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.popup-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.popup {
+  background-color: aliceblue;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
